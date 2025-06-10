@@ -11,7 +11,8 @@ export default defineConfig({
     resolve: {
         alias: {
           src: "/src",
-           base: '/peSport-eSport/', 
+           base: '/peSport-eSport/',
+            
         },
       },
     optimizeDeps: {
